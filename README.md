@@ -1,9 +1,9 @@
-<h1 align="center">Servus I am Nico</h1>
+<h1 align="center">Hey I am Nico</h1>
 <h3 align="center">a dual study student for computer science at DHBW Friedrichshafen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicosaas&label=Profile%20views&color=0e75b6&style=flat" alt="nicosaas" /> </p>
 
-- 🔭 I’m currently working on **various University Projects**
+I’m currently working on **various University Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
