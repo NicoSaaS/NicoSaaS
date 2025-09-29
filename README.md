@@ -1,5 +1,8 @@
 <h1 align="center">Hey I am Nico</h1>
-<h3 align="center">a dual study student for computer science at DHBW Friedrichshafen</h3>
+<h3 align="center">
+  a <a href="https://www.dhbw.de/english/home" target="_blank" rel="noopener noreferrer">dual study</a> student for computer science at DHBW Friedrichshafen
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicosaas&label=Profile%20views&color=0e75b6&style=flat" alt="nicosaas" /> </p>
 
