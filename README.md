@@ -73,14 +73,18 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
-
-📊 **This Week I Spent My Time On** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-💻 Operating System: 
-No Activity Tracked This Week
+Monday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Tuesday                  118 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+Wednesday                108 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Saturday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 ```
+
 
 **I Mostly Code in Python** 
 
@@ -93,10 +97,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/NicoSaaS/NicoSaaS/main/assets/bar_graph.png)
 
 
 <!--END_SECTION:waka-->
