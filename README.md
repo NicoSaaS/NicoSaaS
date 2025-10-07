@@ -5,6 +5,13 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0A66C2,100:111827&text=Hey%2C%20I'm%20Nico&fontAlign=50&fontColor=ffffff&fontSize=46&animation=fadeIn" alt="Header"/>
 </p>
 
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=AI+Student+%40+DHBW;Backend+%26+Full-Stack+Developer;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
 
 **Dual study student in Computer Science @
