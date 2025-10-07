@@ -64,6 +64,69 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                170 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
+🌆 Daytime                184 commits         ██████████░░░░░░░░░░░░░░░   41.72 % 
+🌃 Evening                68 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Tuesday                  114 commits         ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+Wednesday                108 commits         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Saturday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/NicoSaaS/NicoSaaS/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/10/2025 10:23:28 UTC
 <!--END_SECTION:waka-->
 
 <!-- Footer -->
