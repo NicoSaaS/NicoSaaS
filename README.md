@@ -23,7 +23,7 @@ Focus: AI | Backend | Full-Stack Development
   <a href="https://github.com/nicosaas"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://dev.to/nicosaas"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://linkedin.com/in/nicosaas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://discord.com/users/nico_saas"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/596307198045454344"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="mailto:prang.nico-it24@it.dhbw-ravensburg.de"><img alt="Email" src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -61,6 +61,10 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
   <img src="https://github-readme-stats.vercel.app/api?username=nicosaas&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicosaas&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
+## ⏱️ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- Footer -->
 <p align="center">
