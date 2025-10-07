@@ -15,9 +15,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "en"
           SHOW_UPDATED_DATE: "false"
-          SHOW_LINES_OF_CODE: "true"
-          SHOW_COMMIT: "true"
-          SHOW_DAYS_OF_WEEK: "true"
+          SHOW_LINES_OF_CODE: "false"
+          SHOW_COMMIT: "false"
+          SHOW_DAYS_OF_WEEK: "false"
           SHOW_LANGUAGE: "false"
           SHOW_EDITORS: "false"
           SHOW_PROJECTS: "false"
