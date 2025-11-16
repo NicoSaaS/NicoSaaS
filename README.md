@@ -71,21 +71,6 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2047%20mins-blue)
-
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Tuesday                  165 commits         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Wednesday                158 commits         ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-Thursday                 115 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Friday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Saturday                 36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Sunday                   28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-```
-
-
 **I Mostly Code in Python** 
 
 ```text
