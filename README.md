@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Student+%40+DHBW;Backend+%26+Full-Stack+Developer;AI+Enthusiast;Always+learning+something+new;Building+today+for+tomorrow;Curious+mind+in+a+digital+world" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Student+%40+DHBW;Backend+%26+Full-Stack+Developer;AI+Enthusiast;Always+learning+something+new;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,11 +17,6 @@
 Focus: AI | Backend | Full-Stack Development  
 
 <br/>
-
-<!-- Main link -->
-<a href="https://nicosaas.de" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20nicosaas.de-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
 
 <!-- Social links -->
 <p>
