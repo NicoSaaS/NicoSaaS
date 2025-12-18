@@ -1,5 +1,3 @@
-<!-- Modern GitHub Profile README for Nico -->
-
 <!-- Hero header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0A66C2,100:111827&text=Hey%2C%20I'm%20Nico&fontAlign=50&fontColor=ffffff&fontSize=46&animation=fadeIn" alt="Header"/>
@@ -27,7 +25,6 @@ Focus: AI | Backend | Full-Stack Development
 
 <!-- Social links -->
 <p>
-  <a href="https://github.com/nicosaas"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://dev.to/nicosaas"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://linkedin.com/in/nicosaas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://discord.com/users/596307198045454344"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
