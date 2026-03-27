@@ -68,13 +68,13 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Tuesday                  174 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Wednesday                203 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Thursday                 145 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Sunday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Monday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Tuesday                  60 commits          █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Wednesday                65 commits          ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Thursday                 65 commits          ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Saturday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Sunday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 
 
