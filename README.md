@@ -68,24 +68,24 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Tuesday                  174 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Wednesday                203 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Thursday                 145 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Saturday                 39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Sunday                   28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Monday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Tuesday                  175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Wednesday                206 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Thursday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Saturday                 39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Sunday                   30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             █████████░░░░░░░░░░░░░░░░   36.00 % 
-TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
+TypeScript               8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
