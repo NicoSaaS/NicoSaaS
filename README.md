@@ -63,29 +63,29 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%206%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Tuesday                  207 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Wednesday                225 commits         ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Friday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Saturday                 33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Sunday                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Monday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Tuesday                  208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Wednesday                228 commits         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Friday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Saturday                 33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Sunday                   39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 ```
 
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   11 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
