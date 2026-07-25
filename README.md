@@ -63,19 +63,6 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Tuesday                  117 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Wednesday                110 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Thursday                 93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Friday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Saturday                 28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
-
-
 **I Mostly Code in Python** 
 
 ```text
