@@ -63,20 +63,47 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%207%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2058%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Tuesday                  232 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Wednesday                255 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Thursday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   203 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Saturday                 34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Sunday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Monday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Tuesday                  232 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Wednesday                255 commits         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Thursday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Friday                   203 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Saturday                 34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Sunday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 8 mins (82.04%)
+
+✍️ 96 lines written by AI, 39 lines written by hand (71.11% AI-written)
+
+🔤 622,620 Input Tokens, 11,171 Output Tokens
+
+💵 $2.72 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 41 AI Prompts
+
+Gemini                   96 lines            █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 71.11% of written lines came from AI
+📝 Concise Prompter — average 264 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 93.37% of changed lines were hand-edited
+```
 
 **I Mostly Code in Python** 
 
