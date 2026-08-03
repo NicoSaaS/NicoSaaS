@@ -63,44 +63,45 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Tuesday                  245 commits         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Wednesday                263 commits         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-Thursday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Friday                   211 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Saturday                 36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Sunday                   46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Monday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Tuesday                  245 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Wednesday                263 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Thursday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Friday                   212 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Saturday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (91.67%)
+⏱ AI Coding Time: 2 hrs 45 mins (88.07%)
 
-✍️ 850 lines written by AI, 33 lines written by hand (96.26% AI-written)
+✍️ 911 lines written by AI, 33 lines written by hand (96.5% AI-written)
 
-🔤 14,921,237 Input Tokens, 115,877 Output Tokens
+🔤 19,017,614 Input Tokens, 182,168 Output Tokens
 
-💵 $77.39 Estimated AI Cost This Week
+💵 $95.30 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 22 AI Prompts
+🧠 6 AI Sessions, 32 AI Prompts
 
-Opus                     993 lines           █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,033 lines         █████████████████████████   98.01 % 
+Sonnet                   21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.26% of written lines came from AI
-📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.78% of changed lines were hand-edited
+🤖 AI-Driven — 96.5% of written lines came from AI
+📝 Concise Prompter — average 394 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
