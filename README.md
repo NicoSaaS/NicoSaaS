@@ -70,38 +70,38 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Tuesday                  254 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Wednesday                271 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Thursday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Friday                   218 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Saturday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Sunday                   56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Monday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Tuesday                  263 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Wednesday                294 commits         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Thursday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Friday                   224 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Saturday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 45 mins (88.07%)
+⏱ AI Coding Time: 2 hrs 12 mins (88.05%)
 
-✍️ 911 lines written by AI, 33 lines written by hand (96.5% AI-written)
+✍️ 664 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 19,017,614 Input Tokens, 182,168 Output Tokens
+🔤 17,451,093 Input Tokens, 151,374 Output Tokens
 
-💵 $95.30 Estimated AI Cost This Week
+💵 $86.70 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 32 AI Prompts
+🧠 5 AI Sessions, 24 AI Prompts
 
-Opus                     1,033 lines         █████████████████████████   98.01 % 
-Sonnet                   21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Opus                     656 lines           ████████████████████████░   96.90 % 
+Sonnet                   21 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.5% of written lines came from AI
-📝 Concise Prompter — average 394 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 495 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.57% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
