@@ -70,37 +70,20 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Tuesday                  244 commits         ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Wednesday                253 commits         ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Saturday                 43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Sunday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Monday                   175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Tuesday                  290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Wednesday                324 commits         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Friday                   247 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Saturday                 48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Sunday                   88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (43.45%)
-
-✍️ 103 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 44,712 Input Tokens, 13,713 Output Tokens
-
-💵 $8.01 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opus                     123 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 740 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.8% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
