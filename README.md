@@ -70,35 +70,36 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Tuesday                  295 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Wednesday                324 commits         ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Friday                   247 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Saturday                 48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Sunday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Monday                   179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Tuesday                  295 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Wednesday                324 commits         ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Friday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Sunday                   96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (100.0%)
+⏱ AI Coding Time: 1 hr 22 mins (100.0%)
 
 ✍️ 5,149 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 213,479 Input Tokens, 131,393 Output Tokens
+🔤 273,050 Input Tokens, 144,005 Output Tokens
 
-💵 $11.81 Estimated AI Cost This Week
+💵 $13.15 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 9 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
 Opus                     5,154 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 395 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 347 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
