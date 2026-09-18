@@ -63,9 +63,9 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2043%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -83,23 +83,23 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (99.51%)
+⏱ AI Coding Time: 8 hrs 51 mins (99.74%)
 
-✍️ 3,438 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,249 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 842,735 Input Tokens, 330,734 Output Tokens
+🔤 2,054,273 Input Tokens, 529,665 Output Tokens
 
-💵 $24.05 Estimated AI Cost This Week
+💵 $56.37 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 29 AI Prompts
+🧠 6 AI Sessions, 57 AI Prompts
 
-Opus                     2,372 lines         ████████████████░░░░░░░░░   63.30 % 
-Sonnet                   1,375 lines         █████████░░░░░░░░░░░░░░░░   36.70 % 
+Opus                     3,712 lines         ██████████████████░░░░░░░   70.02 % 
+Sonnet                   1,589 lines         ███████░░░░░░░░░░░░░░░░░░   29.98 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,138 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 622 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
