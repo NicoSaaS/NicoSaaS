@@ -70,11 +70,11 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Tuesday                  321 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Wednesday                344 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Friday                   263 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Monday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Tuesday                  321 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Wednesday                345 commits         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Friday                   263 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 ```
@@ -83,22 +83,22 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (99.58%)
+⏱ AI Coding Time: 2 hrs 18 mins (100.0%)
 
-✍️ 3,030 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,060 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,104,940 Input Tokens, 223,885 Output Tokens
+🔤 855,995 Input Tokens, 93,010 Output Tokens
 
-💵 $39.07 Estimated AI Cost This Week
+💵 $26.23 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 32 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
-Opus                     3,079 lines         █████████████████████████   100.00 % 
+Opus                     1,109 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 724 characters per prompt
+📝 Concise Prompter — average 114 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
