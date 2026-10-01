@@ -63,20 +63,37 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Tuesday                  321 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Wednesday                345 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Friday                   263 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Monday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Tuesday                  321 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Wednesday                348 commits         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Friday                   263 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
 Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (28.82%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 20,078 Input Tokens, 1,315 Output Tokens
+
+💵 $0.65 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Opus                     25 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 232 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
