@@ -60,38 +60,38 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2049%20mins-blue?style=flat)
 
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Tuesday                  320 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Wednesday                345 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Friday                   262 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Monday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Tuesday                  371 commits         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Wednesday                350 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Friday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (28.82%)
+⏱ AI Coding Time: 1 min (30.65%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 20,078 Input Tokens, 1,315 Output Tokens
+🔤 35,703 Input Tokens, 2,014 Output Tokens
 
-💵 $0.65 Estimated AI Cost This Week
+💵 $0.69 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Opus                     25 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 232 characters per prompt
+📝 Concise Prompter — average 160 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -99,11 +99,11 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
