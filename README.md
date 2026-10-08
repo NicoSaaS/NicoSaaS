@@ -63,37 +63,37 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Tuesday                  371 commits         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Wednesday                350 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Friday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Monday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Tuesday                  371 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Wednesday                358 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Friday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (30.65%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 35,703 Input Tokens, 2,014 Output Tokens
+🔤 15,625 Input Tokens, 699 Output Tokens
 
-💵 $0.69 Estimated AI Cost This Week
+💵 $0.54 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Opus                     25 lines            █████████████████████████   100.00 % 
+Opus                     18 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 160 characters per prompt
+📝 Concise Prompter — average 88 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
