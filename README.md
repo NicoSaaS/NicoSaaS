@@ -63,37 +63,20 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Tuesday                  371 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Wednesday                358 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Friday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Sunday                   105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Monday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Tuesday                  375 commits         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Wednesday                358 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Friday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Sunday                   105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 15,625 Input Tokens, 699 Output Tokens
-
-💵 $0.54 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Opus                     18 lines            █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 88 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
