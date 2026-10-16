@@ -63,13 +63,13 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Tuesday                  399 commits         ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Wednesday                362 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Thursday                 178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Friday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Sunday                   105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Monday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  297 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Wednesday                279 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Thursday                 182 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Friday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Sunday                   105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 ```
 
 
@@ -82,11 +82,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ███████████░░░░░░░░░░░░░░   44.12 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   14 repos            ███████████░░░░░░░░░░░░░░   43.75 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
