@@ -56,43 +56,43 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2021%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Tuesday                  334 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Wednesday                331 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-Thursday                 184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Friday                   195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Monday                   186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Tuesday                  334 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Wednesday                331 commits         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Thursday                 184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   201 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Saturday                 60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 22 mins (98.85%)
+⏱ AI Coding Time: 16 hrs 3 mins (99.04%)
 
-✍️ 18,016 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 19,460 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,770,810 Input Tokens, 1,858,877 Output Tokens
+🔤 8,761,138 Input Tokens, 2,343,851 Output Tokens
 
-💵 $174.86 Estimated AI Cost This Week
+💵 $199.41 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 130 AI Prompts
+🧠 36 AI Sessions, 141 AI Prompts
 
-GPT                      12,874 lines        ██████████████████░░░░░░░   71.24 % 
-Sonnet                   4,177 lines         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Opus                     1,021 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+GPT                      13,315 lines        █████████████████░░░░░░░░   68.15 % 
+Sonnet                   4,177 lines         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Opus                     2,045 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,007 characters per prompt
+📄 Detailed Prompter — average 939 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
