@@ -56,9 +56,9 @@ I enjoy building systems, experimenting, and trying out new ideas on my **Raspbe
 
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2029%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -76,25 +76,25 @@ Sunday                   108 commits         ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 30 mins (99.01%)
+⏱ AI Coding Time: 4 hrs 25 mins (98.88%)
 
-✍️ 9,690 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 3,041 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 3,661,866 Input Tokens, 1,181,347 Output Tokens
+🔤 2,108,272 Input Tokens, 705,306 Output Tokens
 
-💵 $95.73 Estimated AI Cost This Week
+💵 $66.56 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 58 AI Prompts
+🧠 9 AI Sessions, 33 AI Prompts
 
-GPT                      7,901 lines         ████████████████████░░░░░   79.68 % 
-Opus                     1,878 lines         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Sonnet                   137 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Opus                     2,523 lines         ████████████████████░░░░░   78.01 % 
+GPT                      574 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Sonnet                   137 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 389 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 190 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
