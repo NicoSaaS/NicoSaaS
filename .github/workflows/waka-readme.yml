@@ -14,6 +14,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "en"
+          SHOW_TOTAL_CODE_TIME: "false"
           SHOW_AI_CODE_TIME: "false"
           SHOW_AI_CODING: "false"
           SHOW_UPDATED_DATE: "false"
