@@ -29,3 +29,6 @@ jobs:
           SHOW_LOC_CHART: "false"
           SHOW_OS: "false"
           SHOW_PROFILE_VIEWS: "false"
+          SHOW_TOTAL_CODE_TIME: "false"
+          SHOW_AI_CODE_TIME: "false"
+          SHOW_AI_CODING: "false"
